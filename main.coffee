@@ -3,7 +3,9 @@
 
  # The temping answer is: not without another equation.
  # A more useful answer is: not without <a href="https://en.wikipedia.org/wiki/Regularization">another constraint</a>.
+
  # (Edit, then shift+enter to compute. Save to share as gist.)
+ # (Application to <a href="http://stemblab.github.io/cs-intro/">compressive sensing</a> at end.)
 
  # Let's plot $2y+x=4$ in fig1.
 
