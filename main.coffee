@@ -52,7 +52,7 @@ plot x, l0(x), fig:fig3
 
  # Say we have a quadratic $y=a_0+a_1x+a_2x^2$, and two known
  # points $(x_1,y_1)$ and $(x_2, y_2)$. Our linear system to
- # interpolate is
+ # find an interpolant is
  #
  # $\begin{bmatrix}1 & x_1 & x_1^2 \\ 1 & x_2 & x_2^2\end{bmatrix} \begin{bmatrix}a_0\\a_1\\a_2\end{bmatrix} = \begin{bmatrix}y_1 \\ y_2\end{bmatrix}$
  #
