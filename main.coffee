@@ -36,7 +36,7 @@ plot x, [y(x), c(x)], fig:fig2
  # <i>unique</i> solution of $2y+x=4$, if we minimize
  # $||v||_2=x^2+y^2$. A simple example, but a powerful idea.
  
- # One application is <a href="https://en.wikipedia.org/wiki/Compressed_sensing">compressive sensing</a>. Consider solving
+ # One application is <a href="http://stemblab.github.io/cs-intro/">compressive sensing</a>. Consider solving
  # while minimizing the <a href="https://en.wikipedia.org/wiki/Norm_(mathematics)">Manhattan norm</a> $||v||_1=|x|+|y|$ (fig3).
 
 fig3 = figure
